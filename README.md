@@ -125,7 +125,7 @@ To add new gestures:
 
 ## 👥 Contributors
 
-- [Abudllah Aftab](https://github.com/AbdullahAftab12)
+- [Abdullah Aftab](https://github.com/AbdullahAftab12)
 - [Rudra Lakhani](https://github.com/rudra-5)
 - [Sulaiman Ahmed](https://github.com/su1aimn)
 
