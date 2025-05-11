@@ -26,13 +26,10 @@ This tool is designed to make communication more accessible for deaf and hard-of
 ## 📷 Screenshots
 
 ### Main Interface
-![Main Interface](imgs/hello-sign.png)
-
-### Gesture Recognition in Action
 ![Hello Sign Recognition](imgs/main-interface.png)
 
-### Settings Panel
-![Settings Panel](imgs/settings-panel.png)
+### Gesture Recognition in Action
+![Main Interface](imgs/hello-sign.png)
 
 ## 🤓 How It Works
 
@@ -130,6 +127,7 @@ To add new gestures:
 
 - [Abudllah Aftab](https://github.com/AbdullahAftab12)
 - [Rudra Lakhani](https://github.com/rudra-5)
+- [Sulaiman Ahmed](https://github.com/su1aimn)
 
 ## 📜 License
 
