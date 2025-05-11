@@ -59,7 +59,7 @@ The current model recognizes the following gestures/phrases:
 ## 📂 Installation
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.8+
 - Webcam
 
 ### Setup
