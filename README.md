@@ -2,7 +2,7 @@
 
 Real-time American Sign Language (ASL) translator powered by computer vision and machine learning, enabling both Speech-to-Sign and Sign-to-Speech communication.
 
-🚀 This project was built during the ADU Hackathon 2025 in May, 2025.
+🚀 This project was built during the ADU Hackathon in May, 2025.
 
 ## 📝 Overview
 
